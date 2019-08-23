@@ -6,5 +6,7 @@ This project also includes validations, required for the email and passwords, as
 The password must also have a min length of 8 characters.
 
 For this project, I did not use any Javascript or CSS, this is a purely HTML5 form.
+
 Author: Angie Delgado
+
 Email: angiedelgado08@gmail.com
