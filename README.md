@@ -1,4 +1,5 @@
-form.html
+Project: form.html
+
 This project is a registration form which incorporates the usage of main form elements.
 Here I am using the text input, password input, email input, radio buttons, select tags and a checkbox input. 
 This project also includes validations, required for the email and passwords, as well for the checkbox input. 
