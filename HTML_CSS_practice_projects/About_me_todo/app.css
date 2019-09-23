@@ -1,0 +1,17 @@
+h1 { 
+	color: red;
+
+	border: 1px dotted purple; 
+}
+li {
+	color: green;
+}
+h4 {
+	color: rgba(0, 0, 0, .2);
+	background: rgb(255, 100, 80)
+}
+body {
+	background: url(https://image.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58930.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
